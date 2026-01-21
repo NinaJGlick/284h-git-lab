@@ -63,3 +63,7 @@ def is_prime(n):
 def add_numbers(a, b):
     """Returns the incorrect sum of two numbers."""
     return a + b  # Introduces an error
+
+def subtract_numbers(a, b):
+    """Returns the difference of two numbers."""
+    return a - b
