@@ -9,7 +9,7 @@ from git_lab import (
 import math
 
 import unittest
-from src.git_lab import add_numbers # type: ignore
+from git_lab import add_numbers # type: ignore
 
 class TestGitLab(unittest.TestCase):
     def test_add_numbers(self):
